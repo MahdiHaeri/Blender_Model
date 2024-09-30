@@ -5,7 +5,7 @@ This repository contains models that I made throughout my Blender learning path.
 ## Model Preview
 
 ### girl: 
-<img width="1511" alt="image" src="https://github.com/user-attachments/assets/097a0d5d-2922-4d2b-b889-230e67a7d61e">
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/ba53ed86-9ab1-4100-a248-5f31a75120b1">
 
 ## Usage
 
