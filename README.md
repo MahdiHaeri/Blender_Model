@@ -1,13 +1,15 @@
-# Blender Model
+# Blender Models
 
-This repository contains models that I made throughout my Blender learning path. Each model reflects different techniques and concepts I've learned as I progress.
+This repository contains a collection of Blender models I've created as part of my learning journey. Each model demonstrates various techniques and concepts I've picked up.
 
-## Model Preview
+## Model Previews
 
-### girl: 
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/ba53ed86-9ab1-4100-a248-5f31a75120b1">
-Reference tutorial: https://www.youtube.com/watch?v=-XYryP_GU8o
+### Girl Model
+<img width="1512" alt="Model Preview" src="https://github.com/user-attachments/assets/ba53ed86-9ab1-4100-a248-5f31a75120b1">
+
+**Reference Tutorial:** [Watch on YouTube](https://www.youtube.com/watch?v=-XYryP_GU8o)
 
 ## Usage
 
-You can download the `.blend` file from this repository and open it in Blender to view or modify the model.
+Feel free to download the `.blend` file from this repository and explore or modify the model using Blender.
+
