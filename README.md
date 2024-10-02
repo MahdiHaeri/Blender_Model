@@ -13,7 +13,7 @@ This repository contains a collection of Blender models I've created as part of 
 | <img width="840" alt="image" src="https://github.com/user-attachments/assets/1a0c61dc-f2b2-4773-a11f-722466790edb"> | <img width="840" alt="image" src="https://github.com/user-attachments/assets/5a9024c2-cf30-4049-aed8-f8f5d7f0552e"> |
 | :---: | :----: |
 
-**Reference Tutorial:** [Watch on YouTube](https://www.youtube.com/watch?v=-XYryP_GU8o)
+**Reference Tutorial:** [Watch on YouTube](https://www.youtube.com/@EveSculpts/featured)
 
 ## Usage
 
