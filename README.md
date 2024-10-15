@@ -1,5 +1,3 @@
-# Blender Models
-
 This repository contains a collection of Blender models I've created as part of my learning journey. Each model demonstrates various techniques and concepts I've picked up.
 
 ## Model Previews
@@ -15,7 +13,8 @@ This repository contains a collection of Blender models I've created as part of 
 
 **Reference Tutorial:** [Watch on YouTube](https://www.youtube.com/@EveSculpts/featured)
 
-## Usage
+### Donut Model
+| ![render2](https://github.com/user-attachments/assets/ac3a98a5-9a70-4778-a8ef-c43f5217e1cd) | ![render](https://github.com/user-attachments/assets/530b1647-c682-4b3e-a50a-67ba3bf3ae66) |
+| :---: | :----: |
 
-Feel free to download the `.blend` file from this repository and explore or modify the model using Blender.
-
+**Reference Tutorial:** [Watch on YouTube](https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
